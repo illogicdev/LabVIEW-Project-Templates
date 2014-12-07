@@ -1,4 +1,4 @@
 SimpleLabVIEWProjectTemplate
 ============================
 
-This template features a standard project structure
+This template features a standard project structure for LV13
